@@ -7,6 +7,10 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <ul class="list-inline text-center">
+          {% if post.tags.size > 0 %}
+          Tag{% if post.tags.size > 1 %}s{% endif %}:
+          {{ post.tags | sort | join: ", " }}
+          {% endif %}
           {% if site.email %}
           <li class="list-inline-item">
             <a href="mailto:{{ site.email | encode_email }}">

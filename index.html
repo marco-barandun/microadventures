@@ -4,9 +4,14 @@ title: Hi there!
 background: '/img/bg-index.jpeg'
 ---
 
-<p>Hi! This is my personal website where I share my research experices. Below this you can see a selection of my latest projects. Enjoy!  </p>
+<p>Hi! Welcome to our microadventures website! Here we publish details about future microadventures and impressions of past ones. Hoping to have you on the next one! </p>
+
+<p> By clickng <a href="https://chat.whatsapp.com/KfHy3JbSt2D3oLwr59C4DI">here</a> you can join our whatsapp group, moderate spam level included! </p>
+
+<p> <strong>Important:</strong> Should you have questions or be wanting to organise a great microadventures, please contact us by clicking on the email symbol below ;) </p>
 
 {% for post in site.posts %}
+{%- if post.category == "future" -%}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -23,7 +28,10 @@ background: '/img/bg-index.jpeg'
 
 <hr>
 
+{%- endif -%}
 {% endfor %}
+
+
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}

@@ -1,9 +1,10 @@
-title:              Ecology
+title:              microadventures
 email:              barandun.marco@gmail.com
 description:        My personal website
 author:             Marco Barandun
-baseurl:            "/ecology"
+baseurl:            "/microadventures"
 url:                "https://marco-barandun.github.io"
+future: true
 
 # Social Profiles
 twitter_username:   
