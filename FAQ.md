@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: FAQ
 background: '/img/bg-about.jpg'
 ---
 
