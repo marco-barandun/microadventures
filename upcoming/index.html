@@ -7,9 +7,10 @@ background: '/img/bg-upcoming.jpeg'
 <p>Here you can find all upcoming microadventures.</p>
 
 {% for post in site.posts %}
-{%- if post.category == "future" -%}
+{%- if post.category == "upcoming" -%}
 
 <article class="post-preview">
+  <img src="{{ post.background | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="blog-roll-image">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}

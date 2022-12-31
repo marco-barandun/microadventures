@@ -2,7 +2,7 @@
 layout: post
 title: The famous lady slippery orchids
 category: upcoming
-background: '/research/assets/images/bg-latitudinal.jpeg'
+background: '/img/posts/bg-cypripedium.jpeg'
 tags: moderate botany orchids
 ---
 
