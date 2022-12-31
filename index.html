@@ -4,14 +4,14 @@ title: Hi there!
 background: '/img/bg-index.jpeg'
 ---
 
-<p>Hi! Welcome to our microadventures website! Here we publish details about future microadventures and impressions of past ones. Hoping to have you on the next one! </p>
+<p>Hi! Welcome to our microadventures website! Here we publish the details about upcoming microadventures and impressions of past ones. Hoping to have you on one of the next ones! <br> Below you can find a selection of the upcoming ones.  </p>
 
 <p> By clickng <a href="https://chat.whatsapp.com/KfHy3JbSt2D3oLwr59C4DI">here</a> you can join our whatsapp group, moderate spam level included! </p>
 
-<p> <strong>Important:</strong> Should you have questions or be wanting to organise a great microadventures, please contact us by clicking on the email symbol below ;) </p>
+<p> <strong>Important:</strong> Should you have questions or be wanting to organise a great microadventure, please contact us by clicking on the email symbol below ;) </p>
 
 {% for post in site.posts %}
-{%- if post.category == "future" -%}
+{%- if post.category == "upcoming" -%}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

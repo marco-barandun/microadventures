@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-background: '/img/bg-about.jpg'
+background: '/img/bg-FAQ.jpeg'
 ---
 
 You might have many questions! Here are the answers to some of them, should you have more, just send us an email by clicking on the email symbol on the bottom of the page.

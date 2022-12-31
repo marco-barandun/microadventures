@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-background: '/img/bg-about.jpg'
+background: '/img/bg-about.jpeg'
 ---
 
  We are a group of nature loving people which want to go out and explore this planet we have. Most of us, and you propably too, are however busy with their lifes. So, the idea of microadventures was generated: beautiful and  interesting adventures at a micro level!
