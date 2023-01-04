@@ -10,7 +10,7 @@ background: '/img/bg-index.jpeg'
 
 <p> <strong>Important:</strong> Should you have questions or be wanting to organise a great microadventure, please contact us by clicking on the email symbol below ;) </p>
 
-{% for post in site.posts %}
+{% for post in site.posts reversed%}
 {%- if post.category == "upcoming" -%}
 
 <article class="post-preview">
