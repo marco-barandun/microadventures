@@ -1,0 +1,21 @@
+---
+layout: post
+title: The best via ferrata in Switzerland
+category: upcoming
+background: '/img/posts/bg-monte.jpeg'
+tags: hard via-ferrata
+location: "Monte Carasso, TI"
+length: full-day
+---
+
+First thing to mention, this excursion is hard. And you do not have to be afraid of heights. But it is **really worth it!**
+After Arriving in Monte Carasso, we will take a cable car (students: 10 CHF, adults: 19 CHF both ways included), walk for roughly 15 min. and then we will already start climbing! This is an excellent opportunity to get that winter rust off and get summer sporty for that beach look I know you want.<br>
+**Note:** for this excursion we will have to get up early. Sad news, however the earlier we go, the less other people will be there and the more we get done before it gets hot, the better. If we finish early we can go swimming in a river nearby :)<br>
+**Important:** should you not have the needed equipment, there is the possibility to rent it there for 30 CHF
+
+**Topic:** via ferrata  <br>
+**When:** Sunday, April 23rd, 2023 <br>
+**Let us know by:** Sunday, April 16th, 2023 <br>
+**Meeting point:**  9:33, bus stop Monte Carasso/Urénn-Funivia<br>
+**Hike:**   <br>
+**Organiser:** Marco Barandun

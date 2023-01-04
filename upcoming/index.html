@@ -6,7 +6,7 @@ background: '/img/bg-upcoming.jpeg'
 
 <p>Here you can find all upcoming microadventures.</p>
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {%- if post.category == "upcoming" -%}
 
 <article class="post-preview">
@@ -19,7 +19,7 @@ background: '/img/bg-upcoming.jpeg'
     <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
     {% endif %}
   </a>
-  <p class="post-meta">{{ post.date | date: '%B %d, %Y' }} &middot; {{ post.tags | array_to_sentence_string }}
+  <p class="post-meta">{{ post.date | date: '%A, %B %d, %Y' }} &middot; {{ post.length }} &middot; {{ post.location }} &middot; {{ post.tags | array_to_sentence_string }}
   </p>
 </article>
 
