@@ -15,5 +15,5 @@ An excellent opportunity for a botanical hike!
 **When:** Sunday, May 21st, 2023 <br>
 **Let us know by:** Sunday, May 14th, 2023 <br>
 **Meeting point:**  14:45, train station of Arth-Goldau <br>
-**Hike:**   <br>
+**Hike:** moderate 3h 30min hiking time, 550m elevation difference <br>
 **Organiser:** Marco Barandun
